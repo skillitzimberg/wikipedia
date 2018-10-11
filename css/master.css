@@ -35,3 +35,15 @@ ul.wellinks {
    text-align: left;
    left: 3em;
  }
+
+ #navcolumn ul, #navcolumn ul li {
+   list-style: none;
+   text-align: left;
+   margin: 0;
+   margin-left: 5px;
+   padding: 0;
+ }
+
+#navcolumn ul {
+  margin-top: 8px;
+}
