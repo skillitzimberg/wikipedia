@@ -12,7 +12,7 @@ h2.panel-title {
 }
 
 ul.wellinks {
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
 .welcometext {
@@ -46,4 +46,13 @@ ul.wellinks {
 
 #navcolumn ul {
   margin-top: 8px;
+}
+
+.well {
+  margin: 5px;
+  padding: 10px;
+}
+
+#middlewell {
+  margin-right: -20px;
 }
