@@ -55,4 +55,13 @@ ul.wellinks {
 
 #middlewell {
   margin-right: -20px;
+  background-color: #cef2e0;
+}
+
+#bluewell {
+  background-color: #cedff2;
+}
+
+#picturewell {
+  background-color: #faf5ff;
 }
