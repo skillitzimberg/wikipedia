@@ -1,0 +1,21 @@
+h2.panel-title {
+  color: black;
+  font-size: 25px;
+}
+
+#whitewell {
+  background-color: white;
+}
+
+#wellcome {
+  padding: 5px;
+}
+
+ul.wellinks {
+  margin-top: 10px;
+}
+
+.welcometext {
+  text-align: center;
+  margin-bottom: 10px;
+}
